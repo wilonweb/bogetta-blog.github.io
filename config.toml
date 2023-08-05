@@ -1,0 +1,9 @@
+baseURL = 'https://bogetta-blog.github.io/'
+languageCode = 'fr'
+theme = "terminal"
+enableEmoji = true
+
+[params]
+title = 'Bottega numerique'
+author = 'WilOnWeb'
+description = 'La Technologie au service de la creativité'
